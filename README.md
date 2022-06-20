@@ -1,2 +1,2 @@
 ## JavaScript Console
-### View on [Vercel](https://jsconsole.vercel.app/)
+### View the live version on [Vercel](https://jsconsole.vercel.app/)
