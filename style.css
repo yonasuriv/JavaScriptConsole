@@ -2,11 +2,11 @@ body {
   margin: 0;
 }
 h1 {
-  color: #F8003A;
+  color: #3f898d;
 }
 
 a {
-  color: #F8003A;
+  color: #3f898d;
   text-decoration: none;
 }
 
@@ -19,7 +19,7 @@ a {
   height: 100vh;
   display: flex;
   flex-direction: column;
-  background: #111111;
+  background: #2E3D49;
 }
 
 .console-history {
@@ -46,7 +46,7 @@ a {
 }
 
 .console-output-log {
-  color: #F8003A;
+  color: #86ebd9;
 }
 
 .console-input {
